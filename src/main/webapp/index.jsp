@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-<marquee>Hello This is my first application</marquee>
+<marquee><b>Hello This is my first application</b></marquee>
 </html>
 </body>
